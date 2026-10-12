@@ -1,3 +1,3 @@
 export const TOKEN_ADDRESSES: string[] = [
-  "Fak3rJEBfR4Vb8DoFpecf6yoxbkkr1gGUH5tdj2rpump",
+  "8fC4E7kD9HHskb5nZjLuKUfdKe14caNifo1bmFHUpump",
 ]
