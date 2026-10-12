@@ -1,5 +1,5 @@
 export const TOKEN_ADDRESSES: string[] = [
-  "1_COIN_CA_BURAYA",
+  "USDCr7QqshWobMtH9JdgVoyR5mFY8egohfvVhxTQBvf",
   "2_COIN_CA_BURAYA",
   "3_COIN_CA_BURAYA",
   "4_COIN_CA_BURAYA",
